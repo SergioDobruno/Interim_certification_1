@@ -27,3 +27,4 @@ void PrintArray(string[] array)
     System.Console.WriteLine();
 }
 
+NewArray(array1, arrayNew);
