@@ -28,3 +28,4 @@ void PrintArray(string[] array)
 }
 
 NewArray(array1, arrayNew);
+PrintArray (arrayNew);
